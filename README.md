@@ -40,7 +40,12 @@ To get a local copy up and running follow these simple example steps.
 
 ## Authors
 
-👤 **Author1**
+👤**Silvia Tofana**
+
+- GitHub: [@silviatofana](https://github.com/silviatofana)
+- LinkedIn: [@silviatofana](www.linkedin.com/in/silvia-tofana-10b852186)
+- Twitter: [@silviatofana] (https://twitter.com/silviatofana)
+
 
 -
 ## 🤝 Contributing
